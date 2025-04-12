@@ -8,14 +8,14 @@
 
 <div align="center">
   <h3>
-    <!-- <a href="{https://your-demo-link.your-domain}">
+    <a href="https://h-yoshikawa44.github.io/ch-simple-faq/">
       Demo
     </a>
-    <span> | </span> -->
-    <!-- <a href="{https://your-url-to-the-solution}">
+    <span> | </span>
+    <a href="https://devchallenges.io/solution/48439">
       Solution
     </a>
-    <span> | </span> -->
+    <span> | </span>
     <a href="https://devchallenges.io/challenge/simple-faq-challenge">
       Challenge
     </a>
@@ -49,17 +49,17 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### Desktop
 
-（スクショを貼る）
+![desktop](./screenshots/desktop.png)
 
 ### Mobile
 
-（スクショを貼る）
+<img src="./screenshots/mobile.png" width="50%">
 
 ### What I learned
 
 <!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
 
-（後で書く）
+- (No new learning this time.)
 
 ### Built with
 
@@ -82,23 +82,23 @@ Other major libraries
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
-- [ ] Create a simple FAQ page using HTML and CSS.
-- [ ] Include a heading that describes the purpose of the page.
-- [ ] Add a list of questions, each followed by its corresponding answer.
-- [ ] Ensure the links are clickable and navigatable with the tab key.
-- [ ] Ensure the layout is clean and visually appealing with appropriate spacing and typography.
-- [ ] Use semantic HTML elements to structure the content and improve SEO.
-- [ ] Apply CSS styles to enhance the visual presentation of the page.
-- [ ] Test the web page on different devices and screen sizes to ensure responsiveness.
-- [ ] Validate the HTML and CSS code to ensure it follows best practices and standards.
-- [ ] Document the code and provide clear instructions on how to run and use the web page.
-- [ ] Deploy the website to make it accessible for everyone.
+- [x] Create a simple FAQ page using HTML and CSS.
+- [x] Include a heading that describes the purpose of the page.
+- [x] Add a list of questions, each followed by its corresponding answer.
+- [x] Ensure the links are clickable and navigatable with the tab key.
+- [x] Ensure the layout is clean and visually appealing with appropriate spacing and typography.
+- [x] Use semantic HTML elements to structure the content and improve SEO.
+- [x] Apply CSS styles to enhance the visual presentation of the page.
+- [x] Test the web page on different devices and screen sizes to ensure responsiveness.
+- [x] Validate the HTML and CSS code to ensure it follows best practices and standards.
+- [x] Document the code and provide clear instructions on how to run and use the web page.
+- [x] Deploy the website to make it accessible for everyone.
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-（後で書く）
+- [MDN - list-style](https://developer.mozilla.org/ja/docs/Web/CSS/list-style)
 
 ## Author
 
