@@ -19,14 +19,14 @@
 html,
 body {
   font-family: var(--font-base);
-  font-synthesis: none;
-  text-rendering: optimizelegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
+  font-synthesis: none;
   line-height: 1.5;
   color: var(--text-color);
   background-color: var(--bg-color-base);
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
